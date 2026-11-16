@@ -1,0 +1,2 @@
+Java file input reads text from a path.
+BufferedReader provides convenient line-by-line reading.

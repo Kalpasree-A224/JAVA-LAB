@@ -1,0 +1,1 @@
+This sample demonstrates reading a text file.
